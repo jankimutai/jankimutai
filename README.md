@@ -11,32 +11,33 @@
 
 ## Connect with me  
 <div>
-<a href="https://github.com/jankimutai" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://x.com/kim_singoei" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/kimutai-jan-73bb26206/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>  
 
 ## Languages & tools:
   ### My Stack 
   <div>  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" />  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" />
+    <img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" />  
+    <img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" /> 
+    <img style="margin: 10px" src = "https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
+    <img style="margin: 10px" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React" height="30" />
     <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" />
-    <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" height="30" />
+    <img style="margin: 10px" src="https://img.shields.io/badge/flask-000000??style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="30" />
+    <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+   
   </div>
   
 ### Github Stats
+  <a href="https://github.com/jankimutai/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jankimutai&show_icons=true&theme=github_dark" width="400" height ="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankimutai&layout=compact&theme=github_dark&border_color=ffffff&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  width="400" height ="150"  /></a> 
 
-<a href="https://github.com/jankimutai/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jankimutai&show_icons=true&theme=dark" width="400" height ="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankimutai&layout=compact" width="400" height ="150" />
+  
 
 
 
