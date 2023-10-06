@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 # GITHUB STATS
-![](https://github-readme-stats.vercel.app/api?username=jankumutai&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jankimutai&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
