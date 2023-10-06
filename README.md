@@ -1,4 +1,5 @@
 
+[![KIMUTAI JAN](https://img.shields.io/badge/JAN-KIMUTAI-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=jankimutai&color=green)  ![Followers](https://img.shields.io/github/followers/jankimutai)  ![Stars](https://img.shields.io/github/stars/jankimutai?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 ## 👋 Hello! I'm Jan Kimutai a junior software developer 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: Python.
@@ -31,15 +32,15 @@
     <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" height="30" />
   </div>
   
- 
-
-
 ### Github Stats
+
 <a href="https://github.com/jankimutai/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=jankimutai&show_icons=true&theme=dark" width="400" height ="150" />
-<a href="https://github.com/enockabere/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankimutai&layout=compact" width="400" height ="150" />
-</a>
+
+
+
+
 
 
 
