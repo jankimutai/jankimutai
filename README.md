@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on Open source projects related to web development.
 - 🤔 I’m looking for help with Improving my skills in Python and backend development.
 - 💬 Ask me about Frontend web development, HTML, CSS, JavaScript, and ReactJS.
-- 📫 How to reach me: You can reach me via email at [jankimutai1806@gmail.com].
+- 📫 How to reach me: You can reach me via [EMAIL](jankimutai1806@gmail.com).
 - ⚡ Fun fact...
 
 ## Connect with me  
