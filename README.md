@@ -1,13 +1,13 @@
 
 [![KIMUTAI JAN](https://img.shields.io/badge/JAN-KIMUTAI-<COLOR>.svg)](https://shields.io/) <img src="https://komarev.com/ghpvc/?username=jankimutai &label=Profile%20views&color=0e75b6&style=flat" alt="kimutai" /> ![Followers](https://img.shields.io/github/followers/jankimutai)  ![Stars](https://img.shields.io/github/stars/jankimutai?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
+
 ## 👋 Hello! I'm Jan Kimutai a Junior Software Developer 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: Python.
 - 👯 I’m looking to collaborate on Open source projects related to web development.
 - 🤔 I’m looking for help with Improving my skills in Python and backend development.
 - 💬 Ask me about Frontend web development, HTML, CSS, JavaScript, and ReactJS.
-- 📫 How to reach me: You can reach me via [Email](jankimutai1806@gmail.com).
-- ⚡ Fun fact...
+- 📫 How to reach me: You can reach me via (jankimutai1806@gmail.com).
 
 ## Connect with me  
 <div>
