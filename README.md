@@ -2,8 +2,8 @@
 [![KIMUTAI JAN](https://img.shields.io/badge/JAN-KIMUTAI-<COLOR>.svg)](https://shields.io/) <img src="https://komarev.com/ghpvc/?username=jankimutai &label=Profile%20views&color=0e75b6&style=flat" alt="kimutai" /> ![Followers](https://img.shields.io/github/followers/jankimutai)  ![Stars](https://img.shields.io/github/stars/jankimutai?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
 ## 👋 Hello! I'm Jan Kimutai a Junior Software Developer 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: Python.
+<!-- - 🔭 I’m currently working on ...--> 
+- 🌱 I’m currently learning Python and backend development
 - 👯 I’m looking to collaborate on Open source projects related to web development.
 - 🤔 I’m looking for help with Improving my skills in Python and backend development.
 - 💬 Ask me about Frontend web development, HTML, CSS, JavaScript, and ReactJS.
@@ -12,10 +12,10 @@
 ## Connect with me  
 <div>
 <a href="https://x.com/kim_singoei" target="_blank">
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white" />
+<img src="https://img.icons8.com/color/50/111111/twitter-squared.png" />
 </a>
 <a href="https://www.linkedin.com/in/kimutai-jan-73bb26206/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.icons8.com/color/50/111111/linkedin.png" />
 </a>
 </div>  
 
