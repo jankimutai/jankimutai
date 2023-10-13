@@ -1,5 +1,5 @@
 
-[![KIMUTAI JAN](https://img.shields.io/badge/JAN-KIMUTAI-<COLOR>.svg)](https://shields.io/)  ![Profile Views](https://komarev.com/ghpvc/?username=jankimutai&color=green)  ![Followers](https://img.shields.io/github/followers/jankimutai)  ![Stars](https://img.shields.io/github/stars/jankimutai?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
+[![KIMUTAI JAN](https://img.shields.io/badge/JAN-KIMUTAI-<COLOR>.svg)](https://shields.io/) <img src="https://komarev.com/ghpvc/?username=jankimutai &label=Profile%20views&color=0e75b6&style=flat" alt="kimutai" /> ![Followers](https://img.shields.io/github/followers/jankimutai)  ![Stars](https://img.shields.io/github/stars/jankimutai?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 ## 👋 Hello! I'm Jan Kimutai a Junior Software Developer 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: Python.
