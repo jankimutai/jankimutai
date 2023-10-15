@@ -36,7 +36,7 @@
   </div>
 
   ###
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jankimutai&theme=noctis_minimus&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jankimutai&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   
  
   
@@ -44,13 +44,13 @@
 
 Here are some of the projects I have been working on recently
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=School_Records_Management_System&theme=noctis_minimus&hide_border=true)](https://github.com/jankimutai/School_Records_Management_System) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=Farm-Records-Management-System&theme=noctis_minimus&hide_border=true)](https://github.com/jankimutai/Farm-Records-Management-System.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=School_Records_Management_System&theme=github_dark_dimmed&hide_border=true)](https://github.com/jankimutai/School_Records_Management_System) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=Farm-Records-Management-System&theme=github_dark_dimmed&hide_border=true)](https://github.com/jankimutai/Farm-Records-Management-System.git)
 
 ### Github Stats
 
 <div align="left">
-<a href="https://github.com/jankimutai/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jankimutai&theme=noctis_minimus&hide_border=true" alt="m-oniqu3" /></a> <a href="https://github.com/jankimutai/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jankimutai&theme=noctis_minimus&show_icons=true&hide_border=true&hide_rank=true" /></a>
+<a href="https://github.com/jankimutai/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jankimutai&theme=github_dark_dimmed&hide_border=true" alt="m-oniqu3" /></a> <a href="https://github.com/jankimutai/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jankimutai&theme=github_dark_dimmed&show_icons=true&hide_border=true&hide_rank=true" /></a>
   
 </div>
 
