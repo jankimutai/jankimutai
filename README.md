@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jankimutai&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/jankimutai)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jankimutai&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/jankimutai)
 
 ## 👋 Hello! I'm Jan Kimutai a Junior Software Developer 
 <!-- - 🔭 I’m currently working on ...--> 
