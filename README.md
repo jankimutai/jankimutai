@@ -1,9 +1,5 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jankimutai&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/jankimutai)
 
-
-
-[![KIMUTAI JAN](https://img.shields.io/badge/JAN-KIMUTAI-<COLOR>.svg)](https://shields.io/) <img src="https://komarev.com/ghpvc/?username=jankimutai&label=Profile%20views&color=0e75b6&style=flat" alt="kimutai" /> ![Followers](https://img.shields.io/github/followers/jankimutai)  ![Stars](https://img.shields.io/github/stars/jankimutai?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
-
 ## 👋 Hello! I'm Jan Kimutai a Junior Software Developer 
 <!-- - 🔭 I’m currently working on ...--> 
 - 🌱 I’m currently learning Python and backend development
@@ -51,7 +47,8 @@ Here are some of the projects I have been working on recently
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=Farm-Records-Management-System&theme=github_dark_dimmed&hide_border=true)](https://github.com/jankimutai/Farm-Records-Management-System.git)
 
 ### Github Stats
-
+[![](https://visitcount.itsvg.in/api?id=jankimutai&icon=0&color=0)](https://visitcount.itsvg.in)
+</br>
 <div align="left">
 <a href="https://github.com/jankimutai/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jankimutai&theme=github_dark_dimmed&hide_border=true" alt="m-oniqu3" /></a> <a href="https://github.com/jankimutai/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jankimutai&theme=github_dark_dimmed&show_icons=true&hide_border=true&hide_rank=true" /></a>
 
