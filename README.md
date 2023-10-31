@@ -48,9 +48,10 @@ Here are some of the projects I have been working on recently
 
 ### Github Stats
 [![](https://visitcount.itsvg.in/api?id=jankimutai&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </br>
 <div align="left">
-<a href="https://github.com/jankimutai/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jankimutai&theme=github_dark_dimmed&hide_border=true" alt="m-oniqu3" /></a> <a href="https://github.com/jankimutai/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jankimutai&theme=github_dark_dimmed&show_icons=true&hide_border=true&hide_rank=true" /></a>
+<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=jankimutai&theme=github-dark-dimmed"/></a> <a href="https://github.com/jankimutai/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jankimutai&theme=github_dark_dimmed&show_icons=true&hide_border=true&hide_rank=true" /></a>
 
 </div>
 
