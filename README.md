@@ -1,5 +1,3 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jankimutai&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/jankimutai)
-
 ## 👋 Hello! I'm Jan Kimutai a Junior Software Developer 
 <!-- - 🔭 I’m currently working on ...--> 
 - 🌱 I’m currently learning Python and backend development
@@ -52,6 +50,8 @@ Here are some of the projects I have been working on recently
 </br>
 <div align="left">
 <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=jankimutai&theme=github-dark-dimmed"/></a> <a href="https://github.com/jankimutai/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jankimutai&theme=github_dark_dimmed&show_icons=true&hide_border=true&hide_rank=true" /></a>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jankimutai&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/jankimutai)
 
 </div>
 
