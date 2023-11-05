@@ -1,23 +1,29 @@
 ## 👋 Hello! I'm Jan Kimutai a Junior Software Developer 
-<!-- - 🔭 I’m currently working on ...--> 
-- 🌱 I’m currently learning Python and backend development
-- 👯 I’m looking to collaborate on Open source projects related to web development.
-- 🤔 I’m looking for help with Improving my skills in Python and backend development.
-- 💬 Ask me about Frontend web development, HTML, CSS, JavaScript, and ReactJS.
-- 📫 How to reach me: You can reach me via jankimutai1806@gmail.com.
+<details>
+  <summary>About Me</summary>
+  
+  - 🌱 I’m currently learning Python and backend development
+  - 👯 I’m looking to collaborate on Open source projects related to web development.
+  - 🤔 I’m looking for help with Improving my skills in Python and backend development.
+  - 💬 Ask me about Frontend web development, HTML, CSS, JavaScript, and ReactJS.
+  - 📫 How to reach me: You can reach me via jankimutai1806@gmail.com.
+</details>
+<details>
+  <summary>Connect with me</summary>
+  <div>
+    <a href="https://x.com/kim_singoei" target="_blank">
+    <img src="https://img.icons8.com/color/50/111111/twitter-squared.png" />
+    </a>
+    <a href="https://www.linkedin.com/in/kimutai-jan-73bb26206/" target="_blank">
+    <img src="https://img.icons8.com/color/50/111111/linkedin.png" />
+    </a>
+  </div> 
+  
+</details>
 
-## Connect with me  
-<div>
-<a href="https://x.com/kim_singoei" target="_blank">
-<img src="https://img.icons8.com/color/50/111111/twitter-squared.png" />
-</a>
-<a href="https://www.linkedin.com/in/kimutai-jan-73bb26206/" target="_blank">
-<img src="https://img.icons8.com/color/50/111111/linkedin.png" />
-</a>
-</div>  
-
-## Languages & tools:
-  ### My Stack 
+ 
+<details>
+  <summary>Languages & tools</summary>
   <div>  
     <img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" />  
     <img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" /> 
@@ -31,12 +37,14 @@
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   </div>
+</details>
+<details>
+  <summary>Most Used Languages</summary>
 
-  ###
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jankimutai&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jankimutai&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   
- 
-  
+</details> 
+
 ### Latest Projects 
 
 Here are some of the projects I have been working on recently
@@ -44,12 +52,17 @@ Here are some of the projects I have been working on recently
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=School_Records_Management_System&theme=github_dark_dimmed&hide_border=false)](https://github.com/jankimutai/School_Records_Management_System) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=Farm-Records-Management-System&theme=github_dark_dimmed&hide_border=true)](https://github.com/jankimutai/Farm-Records-Management-System.git)
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Github Stats</b></i></p>
+<details>
+  <summary>Github Stats</summary>
+  <div align="left">
+  <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=jankimutai&theme=github-dark-dimmed"/></a> <a href="https://github.com/jankimutai/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jankimutai&theme=github_dark_dimmed&show_icons=true&hide_border=true&hide_rank=true" /></a>
+</details>
+
 [![](https://visitcount.itsvg.in/api?id=jankimutai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</br>
-<div align="left">
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=jankimutai&theme=github-dark-dimmed"/></a> <a href="https://github.com/jankimutai/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jankimutai&theme=github_dark_dimmed&show_icons=true&hide_border=true&hide_rank=true" /></a>
+
+
+
 
 
 </div>
