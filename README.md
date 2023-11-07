@@ -52,20 +52,19 @@ Here are some of the projects I have been working on recently
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=School_Records_Management_System&theme=github_dark_dimmed&hide_border=false)](https://github.com/jankimutai/School_Records_Management_System) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=Farm-Records-Management-System&theme=github_dark_dimmed&hide_border=true)](https://github.com/jankimutai/Farm-Records-Management-System.git)
 
+[![](https://visitcount.itsvg.in/api?id=jankimutai&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <details>
   <summary>Github Stats</summary>
   <div align="left">
   <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=jankimutai&theme=github-dark-dimmed"/></a> <a href="https://github.com/jankimutai/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jankimutai&theme=github_dark_dimmed&show_icons=true&hide_border=true&hide_rank=true" /></a>
+  </div>
+  </br>
+    
+  [![Jan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jankimutai&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
-[![](https://visitcount.itsvg.in/api?id=jankimutai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-
-
-</div>
 
 
 
