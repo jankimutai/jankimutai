@@ -56,7 +56,8 @@ Here are some of the projects I have been working on recently
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=School_Records_Management_System&theme=github_dark_dimmed&hide_border=false)](https://github.com/jankimutai/School_Records_Management_System) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=Farm-Records-Management-System&theme=github_dark_dimmed&hide_border=true)](https://github.com/jankimutai/Farm-Records-Management-System.git)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jankimutai&label=Profile%20views&color=0e75b6&style=plastic" alt="jankimutai" /> </p>
+![](https://komarev.com/ghpvc/?username=jankimutai&style=flat-square)
+
 <details>
   <summary>Github Stats</summary>
    </br>
