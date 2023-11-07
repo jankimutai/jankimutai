@@ -1,6 +1,7 @@
 ## 👋 Hello! I'm Jan Kimutai a Junior Software Developer 
 <details>
   <summary>About Me</summary>
+   </br>
   
   - 🌱 I’m currently learning Python and backend development
   - 👯 I’m looking to collaborate on Open source projects related to web development.
@@ -10,6 +11,7 @@
 </details>
 <details>
   <summary>Connect with me</summary>
+  
   <div>
     <a href="https://x.com/kim_singoei" target="_blank">
     <img src="https://img.icons8.com/color/50/111111/twitter-squared.png" />
@@ -24,6 +26,7 @@
  
 <details>
   <summary>Languages & tools</summary>
+   </br>
   <div>  
     <img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" />  
     <img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" /> 
@@ -40,6 +43,7 @@
 </details>
 <details>
   <summary>Most Used Languages</summary>
+   </br>
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jankimutai&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   
@@ -52,10 +56,10 @@ Here are some of the projects I have been working on recently
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=School_Records_Management_System&theme=github_dark_dimmed&hide_border=false)](https://github.com/jankimutai/School_Records_Management_System) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=Farm-Records-Management-System&theme=github_dark_dimmed&hide_border=true)](https://github.com/jankimutai/Farm-Records-Management-System.git)
 
-[![](https://visitcount.itsvg.in/api?id=jankimutai&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jankimutai&label=Profile%20views&color=0e75b6&style=plastic" alt="jankimutai" /> </p>
 <details>
   <summary>Github Stats</summary>
+   </br>
   <div align="left">
   <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=jankimutai&theme=github-dark-dimmed"/></a> <a href="https://github.com/jankimutai/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jankimutai&theme=github_dark_dimmed&show_icons=true&hide_border=true&hide_rank=true" /></a>
   </div>
