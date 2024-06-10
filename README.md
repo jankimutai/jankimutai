@@ -58,7 +58,7 @@ Here are some of the projects I have been working on recently
 
 
 [![](https://visitcount.itsvg.in/api?id=jankimutai&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!--
 <details>
   <summary>Github Stats</summary>
    </br>
@@ -70,7 +70,7 @@ Here are some of the projects I have been working on recently
   [![Jan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jankimutai&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
-
+-->
 
 
 
