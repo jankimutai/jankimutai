@@ -56,7 +56,6 @@ Here are some of the projects I have been working on recently
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=BlogBloom-API&theme=github_dark_dimmed&hide_border=true)](https://github.com/jankimutai/BlogBloom-API)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jankimutai&repo=School_Records_Management_System&theme=github_dark_dimmed&hide_border=false)](https://github.com/jankimutai/School_Records_Management_System) 
 
-[![wakatime](https://wakatime.com/badge/user/0c70c189-eba1-4e0f-bb41-30b0cabe8d29.svg)](https://wakatime.com/@0c70c189-eba1-4e0f-bb41-30b0cabe8d29)
 [![](https://visitcount.itsvg.in/api?id=jankimutai&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 <details>
